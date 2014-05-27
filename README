@@ -1,1 +1,4 @@
 warpaint is a lightweight markup language
+
+(*italic*)
+(**bold**)
