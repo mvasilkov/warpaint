@@ -1,0 +1,22 @@
+{
+    "name": "warpaint",
+    "version": "0.0.1",
+    "description": "warpaint is a lightweight markup language",
+    "keywords": ["markup", "language", "string", "format", "html", "plain", "text", "formatting"],
+    "homepage": "https://github.com/mvasilkov/warpaint",
+    "author": "Mark Vasilkov (https://github.com/mvasilkov)",
+    "main": "warpaint",
+    "files": ["warpaint.js", "README"],
+    "scripts": {
+        "test": "node_modules/.bin/mocha -R spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:mvasilkov/warpaint.git"
+    },
+    "devDependencies": {
+        "jshint": "~2.5",
+        "mocha": "~1.20"
+    },
+    "license": "MIT"
+}
